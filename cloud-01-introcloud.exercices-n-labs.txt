@@ -1,0 +1,32 @@
+
+Time estimation for the slides
+===============================
+
+~ 60 minutes.
+
+
+Exercices
+==========
+
+Try to build and deploy an application to Heroku.
+
+	https://www.heroku.com
+
+Heroku is a PaaS. It allows free accounts for experimentations and sandboxing.
+It is better to stick with online resources since these courses will be given in 2017.
+Until then, there could be changes. Following the official tutorials will prevent "broken lab instructions".
+
+1. Create an account on Heroku.
+2. Create a Git repository on Github for your project.
+3. Follow one of the tutorials:
+
+	- Java: 	https://devcenter.heroku.com/articles/getting-started-with-spring-mvc-hibernate
+	- NodeJS: 	https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction
+			You may have to create a Node application first.
+			Or look at https://devcenter.heroku.com/articles/mean-apps-restful-api
+
+Once an application is deploed, make a change in the application and push it to the Github account.
+Verify it is redeployed by Heroku and that changes are applied.
+
+Estimated duration: between 90 and 120 minutes.
+
